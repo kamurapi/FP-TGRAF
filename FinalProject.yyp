@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0084c4fd-6e7a-423c-ba7f-29d0d838bbe3",
+            "Value": {
+                "id": "510e06d7-0d37-41cb-90d3-3ce5f2f39dc7",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "0c5d29cb-929f-4292-94d6-e81f26514f09",
             "Value": {
                 "id": "01e0e3d8-cefd-44d9-b665-14dee9a4bc25",

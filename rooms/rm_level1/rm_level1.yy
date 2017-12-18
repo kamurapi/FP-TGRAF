@@ -7,18 +7,15 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "be131e51-0b13-4ab9-a844-9cf6e1ef8bf2",
         "c84fbf79-f2c5-4edf-bce9-92bb715a8745",
-        "78afb81e-48dd-400e-a4d7-880214190114",
-        "b9d8d9ee-445d-41e7-8d33-9ade200899cb",
-        "cab1d87a-781b-4672-9637-2aec5e88a7a3"
+        "b546a30a-3e32-4163-8076-993d18ba4af6"
     ],
     "IsDnD": true,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Robot",
-            "id": "92fc86e5-7834-43e4-b3e7-86cd52c17407",
+            "name": "Instances_2",
+            "id": "0b61adb2-f90d-44c0-9cf1-ef9577f4cfa6",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -29,7 +26,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-                {"name": "inst_76ACA355","id": "be131e51-0b13-4ab9-a844-9cf6e1ef8bf2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76ACA355","objId": "392649bd-4f94-4810-9711-e4cb5d1cfe72","rotation": 0,"scaleX": 0.552,"scaleY": 0.552,"mvc": "1.0","x": -83.328,"y": 217.92}
+
             ],
             "layers": [
 
@@ -56,9 +53,7 @@
             "inheritVisibility": false,
             "instances": [
                 {"name": "inst_61064C66","id": "c84fbf79-f2c5-4edf-bce9-92bb715a8745","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_61064C66","objId": "35d4655f-8311-48b8-a661-d5084aa46392","rotation": 0,"scaleX": 0.552,"scaleY": 0.488,"mvc": "1.0","x": 256,"y": 384},
-                {"name": "inst_563035C9","id": "78afb81e-48dd-400e-a4d7-880214190114","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_563035C9","objId": "35d4655f-8311-48b8-a661-d5084aa46392","rotation": 0,"scaleX": 0.552,"scaleY": 0.4880001,"mvc": "1.0","x": 544,"y": 160},
-                {"name": "inst_52CD948A","id": "b9d8d9ee-445d-41e7-8d33-9ade200899cb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_52CD948A","objId": "35d4655f-8311-48b8-a661-d5084aa46392","rotation": 0,"scaleX": 0.552,"scaleY": 0.4880001,"mvc": "1.0","x": 544,"y": 608},
-                {"name": "inst_725FBF95","id": "cab1d87a-781b-4672-9637-2aec5e88a7a3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_725FBF95","objId": "35d4655f-8311-48b8-a661-d5084aa46392","rotation": 0,"scaleX": 0.552,"scaleY": 0.4880001,"mvc": "1.0","x": 800,"y": 384}
+                {"name": "inst_31BB85D3","id": "b546a30a-3e32-4163-8076-993d18ba4af6","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_31BB85D3","objId": "392649bd-4f94-4810-9711-e4cb5d1cfe72","rotation": 0,"scaleX": 0.36,"scaleY": 0.36,"mvc": "1.0","x": 191.36,"y": 497.92}
             ],
             "layers": [
 
